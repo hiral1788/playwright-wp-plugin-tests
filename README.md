@@ -1,34 +1,33 @@
 # Playwright Automation - WordPress Plugin
 
-## 📌 Overview
+## Overview
 This project demonstrates end-to-end automation testing of a custom WordPress food ordering plugin using Playwright.
 
-## 🚀 Features Tested
+## Features Tested
 - Add to cart functionality
 - Cart validation
 - WhatsApp checkout trigger
 - UI behavior verification
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Playwright (JavaScript)
 - Node.js
 - WordPress (Custom Plugin)
 
-## 📂 Project Structure
+## Project Structure
 - pages/ → Page Object Model
 - tests/ → Test cases
 
-## ▶️ Run Tests
+## Run Tests
 npx playwright test
 
-## 🌐 Application
+## Application
 http://foodz.local/our-food-menu/
 
-## 💡 Key Highlights
-- Real-world WordPress plugin testing
+## Key Highlights
 - Playwright automation using POM
 - Cross-browser testing (Chromium, Firefox, WebKit)
 - Debugging selector & navigation issues
 
-## 👨‍💻 Author
+## Author
 Hiralkumar Patel
